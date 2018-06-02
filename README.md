@@ -1,6 +1,6 @@
 # Weather Forcast Using React And Redux
 
-A youTube api clone based on super fast react technology
+A Super Fast Weather Forcast Website made using React and Redux.
 
 ### Getting Started
 
