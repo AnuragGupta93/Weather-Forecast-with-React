@@ -1,0 +1,52 @@
+#App{
+    text-align: center;
+    margin:10px
+}
+
+form input {
+    width: 75%;
+}
+
+td, th{
+    vertical-align: middle !important;
+    text-align: center !important;
+    margin:30px;
+    padding: 30px
+}
+
+svg{
+    height: 170px;
+    border: 1px solid #999999;
+    padding: 5px;
+    border-radius: 5%;
+}
+
+td:first-of-type, td:first-of-type >div {
+    height: 200px;
+    width: 250px;
+}
+
+#container{
+    width: 90%;
+    margin: 20px  auto;
+}
+
+body{
+    background: #A1FFCE;
+    /* fallback for old browsers */
+
+    background: -webkit-linear-gradient(to right, #FAFFD1, #A1FFCE);
+    /* Chrome 10-25, Safari 5.1-6 */
+
+    background: linear-gradient(to right, #FAFFD1, #A1FFCE);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#heading{
+    margin:1rem;
+    font-size:4.4rem;
+    letter-spacing: 5px;
+    word-spacing: 30px;
+    font-style: italic;
+}
