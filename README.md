@@ -3,15 +3,15 @@
 A Super Fast Weather Forecast Website made using React and Redux.
 
 
-```
+
 ![alt text](https://github.com/AnuragGupta93/Weather-Forecast-with-React/blob/master/style/image.png)
-```
-
-######(Only available for indian cities)
 
 
+###### (Only available for indian cities)
 
-##Getting Started
+
+
+## Getting Started
 
 Its a two step process.
 
