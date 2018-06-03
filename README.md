@@ -4,7 +4,7 @@ A Super Fast Weather Forecast Website made using React and Redux.
 
 
 
-##![Screenshot (40)](E:\Pictures\Screenshots\Screenshot (40).png)
+![alt text]
 
 ######(Only available for indian cities)
 
