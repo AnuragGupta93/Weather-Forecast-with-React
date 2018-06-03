@@ -1,8 +1,16 @@
 # Weather Forcast Using React And Redux
 
-A Super Fast Weather Forcast Website made using React and Redux.
+A Super Fast Weather Forecast Website made using React and Redux.
 
-### Getting Started
+
+
+##![Screenshot (40)](E:\Pictures\Screenshots\Screenshot (40).png)
+
+######(Only available for indian cities)
+
+
+
+##Getting Started
 
 Its a two step process.
 
