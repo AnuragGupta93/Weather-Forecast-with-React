@@ -1,4 +1,4 @@
-# Weather Forcast Using React And Redux
+# Weather Forecast Using React And Redux
 
 A Super Fast Weather Forecast Website made using React and Redux.
 
