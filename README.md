@@ -1,5 +1,5 @@
 # Weather Forecast 
-### ___________Using React And Redux
+### =>Using React And Redux
 
 A Super Fast Weather Forecast Website made using React and Redux.
 ![alt text](https://github.com/AnuragGupta93/Weather-Forecast-with-React/blob/master/style/Weather.png)
