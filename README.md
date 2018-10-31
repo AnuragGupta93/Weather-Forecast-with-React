@@ -23,7 +23,7 @@ Simply download the zip folder or clone on github using
 > cd Weather-Forecast-With-React 
 ```
 
-#### Step 2: Installing all required modules and start the server
+#### Step 2: Installing  all required  modules and start the server
 ```
 > npm install
 > npm start
@@ -32,4 +32,4 @@ Simply download the zip folder or clone on github using
 ### On the Web
 
 Listen the web on port:
-####  localhost:8080
+####  localhost: 8080
